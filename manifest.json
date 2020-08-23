@@ -16,5 +16,6 @@
   },
   "omnibox": {
     "keyword": "c"
-  }
+  },
+  "permissions": ["storage"]
 }
